@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "hw.py", line 16, in <module>
+    tupla.append(4)
+AttributeError: 'tuple' object has no attribute 'append'
